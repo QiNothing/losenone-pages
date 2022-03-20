@@ -6,7 +6,7 @@ prev: false
 next: false
 ---
 
-# Losenone | 洛书南 服务器公开文件
+# Losenone | 洛书南 服务器公开文件1
 
 这里是 Losenone | 洛书南 服务器公开文件, 请玩家认真阅读.
 
